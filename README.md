@@ -25,9 +25,35 @@ cibercriminosos não devolvem os dados, agravando ainda mais o prejuízo.
 
 **DEFINIÇÕES DE KEYLOGGER.**
 
+Um keylogger (de key = tecla + logger = registrador) é um dos tipos mais perigosos e silenciosos de malware voltados para pessoas físicas.
+Ele registra tudo o que o usuário digita no teclado — senhas, números de cartão, mensagens, e-mails, conversas em redes sociais — e envia
+essas informações secretamente para o atacante.
+
+Pode ser embutido em anexos de e-mails falsos, softwares piratas, jogos, pen drives infectados, etc.
+O efeito mais comum são: roubo de senhas bancárias, solicitação de emprestimos, compras on-line, roubo de dados para venda on-line, etc.
+
+**DEFINIÇÕES DE KEYLOGGER.**
+
 1. Criação do código.
 2. Executando o arquivo python.
 3. Invisibilidade do para o usuário.
 4. Capturando dados remotamente.
-5. Exportando os dados.
+5. Exportação de dados.
+
+   **PREVENÇÃO CONTRA MALWARES:**
+
+   Evite abrir arquivos de fontes duvidosas.
+   Antes de abrir o arquivo, passe o antivírus.
+   Abra arquivos desconhecidos em Máquinas Virtuais.
+   Cuidado ao abrir e-mails com promoções mirabolantes.
+   Não troque a senha se solicitado por resdes sociais. Exemplo "Houve uma tentativa de invasão à sua conta, troque sua senha urgente".
+         ***Se houve tentativa, mas não houve invasão, porque trocar a senha?***
+   Em sites bancários, utiliza o teclado virtual.
+   Use autenticação de dois fatores (2FA).
+   Mantenha seu sistema operacional, antivírus e firewall sempre atualizados.
+   Cuidado ao instalar extensões no navegador, desabilite o salvamento automático de senhas.
+   Use senhas fortes e nunca use a mesma senha para várias aplicações.
+   Revise as permissões do seu computador.
+   Só instale app no seu celular de fontes confiáveis, de preferência das lojas oficiais. 
+   
    
