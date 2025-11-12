@@ -56,4 +56,3 @@ O efeito mais comum são: roubo de senhas bancárias, solicitação de emprestim
    Revise as permissões do seu computador.
    Só instale app no seu celular de fontes confiáveis, de preferência das lojas oficiais. 
    
-   
